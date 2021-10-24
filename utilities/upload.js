@@ -62,7 +62,6 @@ let upload = multer({
     console.log(file);
   },
 });
-// return upload;
 
 // router.post(""),
 //   (req, res) => {

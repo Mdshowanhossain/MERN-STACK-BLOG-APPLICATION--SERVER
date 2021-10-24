@@ -2,7 +2,7 @@ const mongoose = require("mongoose");
 
 const URL = "http://localhost:8000";
 
-const conn = mongoose.connection;
+// const conn = mongoose.connection;
 
 // conn.once("open", () => {
 //   gfs = Grid(conn.db, mongoose.mongo);
